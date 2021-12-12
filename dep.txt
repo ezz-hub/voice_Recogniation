@@ -1,0 +1,5 @@
+pip install pillow
+pip install pydub
+pip install imagehash
+pip install librosa
+pip install pyinstaller

@@ -1,0 +1,14 @@
+2021-05-28 11:20:07,468 Audio File 1 Loaded
+2021-05-28 11:20:07,468 starting extraction of data
+2021-05-28 11:20:07,583 subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:/Users/EGYPT_LAPTOP/Desktop/Task4-Dr.Tamer/Adele_Million_Years_Ago_10.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2021-05-28 11:20:08,392 extraction successful
+2021-05-28 11:20:08,392 Loading done
+2021-05-28 11:20:11,361 Audio File 2 Loaded
+2021-05-28 11:20:11,362 starting extraction of data
+2021-05-28 11:20:11,471 subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', 'C:/Users/EGYPT_LAPTOP/Desktop/Task4-Dr.Tamer/Adele_Million_Years_Ago_10.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2021-05-28 11:20:12,259 extraction successful
+2021-05-28 11:20:12,259 Loading done
+2021-05-28 11:20:13,326 starting searching process
+2021-05-28 11:20:13,326 loaded two different songs 
+2021-05-28 11:20:13,396 starting Extraction
+2021-05-28 11:20:15,086 staring comparisons ... 
